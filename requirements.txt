@@ -1,0 +1,10 @@
+d2l==0.15.1
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+timm==0.5.4
+torch==1.10.1+cu111
+torchaudio==0.10.1
+torchvision==0.11.2
